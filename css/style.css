@@ -1,0 +1,27 @@
+#background {
+    background-color:aquamarine
+}
+
+#color{
+    background-color:aqua;
+}
+
+#font {
+    Font-size:20px
+}
+
+#fig {
+    font-size:30px;
+}
+ 
+.headings{
+    font-family:'Ariel;
+    color: geen;
+}
+
+#heading > h2{
+color: red;
+}
+all-article h2 +img{
+    backgroung-color: rgb(204, 0, 255);
+}
